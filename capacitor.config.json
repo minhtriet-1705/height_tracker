@@ -1,0 +1,6 @@
+{
+  "appId": "com.something.height_tracker",
+  "appName": "Height Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
